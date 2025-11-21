@@ -27,11 +27,17 @@
 ## Tabulation
 
 ## Graph
+INPUT VOLTAGE 
+![WhatsApp Image 2025-11-21 at 18 04 42_49f42f27](https://github.com/user-attachments/assets/163bfde1-c523-4741-8e45-bc1f2ca9708f)
+OUTPUT VOLTAGE 
+![WhatsApp Image 2025-11-21 at 18 04 51_c00337d0](https://github.com/user-attachments/assets/d27a264d-3f48-4559-afb1-4a9669323656)
+
+
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN = -247(47.8)**
 
-**BANDWIDTH =**
+**BANDWIDTH = 1.2MHz**
