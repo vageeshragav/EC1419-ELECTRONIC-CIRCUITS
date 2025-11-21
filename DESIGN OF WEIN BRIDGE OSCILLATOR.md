@@ -1,4 +1,5 @@
-## EXP NO:2
+## Expriment No 2
+
 <img width="858" height="602" alt="image" src="https://github.com/user-attachments/assets/0ab70837-a8e1-408c-8a25-b8cecc6157d8" />
 <img width="823" height="236" alt="image" src="https://github.com/user-attachments/assets/29b1a1ff-3043-425c-9d36-50b3126cd5a6" />
 <img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/dff2cbda-f10f-4d7f-9aab-9aee3ee219b9" />
@@ -13,13 +14,14 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
-
 ## Graph
+
+![e2](https://github.com/user-attachments/assets/5b2d83ba-9c95-4548-8ef4-4898de7e7e4d)
+
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
+Practical Frequency of Oscillation = 150 Hz
 
-
-Theoritical Frequency of Oscillation =
+Theoretical Frequency of Oscillation = 159 Hz
